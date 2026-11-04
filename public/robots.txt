@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adavi-electrical-store.onrender.com/sitemap.xml
